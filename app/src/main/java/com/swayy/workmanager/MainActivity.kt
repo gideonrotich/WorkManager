@@ -120,5 +120,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun Test(){
     Text(text = "Testing ")
+    Text(text = "Testing ")
+    Text(text = "Testing ")
 }
 
