@@ -121,6 +121,7 @@ class MainActivity : ComponentActivity() {
 fun Test(){
     Text(text = "Testing ")
     Text(text = "Testing ")
-
+    Text(text = "Testing ")
+    Text(text = "Testing ")
 }
 
